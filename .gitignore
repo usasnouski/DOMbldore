@@ -1,6 +1,6 @@
 
 .DS_Store
-/.byebug_history
-/.package.json
+.byebug_history
+.package.json
 /lib/dombldore.js
 /lib/dombldore.js.map
