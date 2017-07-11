@@ -2,7 +2,7 @@ module.exports = {
   entry: "./lib/main.js",
   output: {
     path: __dirname,
-    filename: "./lib/dombldore.js"
+    filename: "./lib/dombledore.js"
 	},
 	devtool: "source-map"
 };

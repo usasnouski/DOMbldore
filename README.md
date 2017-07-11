@@ -1,11 +1,11 @@
-# DOMbldore #
+# DOMbledore #
 
-DOMbldore is a lightweight JavaScript library inspired by jQuery. It can be used for making AJAX requests, handling events (`on` and `off` methods), manipulating the DOM, and guaranteeing it works across browsers.
+DOMbledore is a lightweight JavaScript library inspired by jQuery. It can be used for making AJAX requests, handling events (`on` and `off` methods), manipulating the DOM, and guaranteeing it works across browsers.
 
 
 ## Core Functionality ##
 
-`$l` is DOMbldore's pivotal function and serves as a wrapper for all the library methods, allowing users to select elements using CSS selectors or queue functions to be run once documents has loaded.
+`$l` is DOMbledore's pivotal function and serves as a wrapper for all the library methods, allowing users to select elements using CSS selectors or queue functions to be run once documents has loaded.
 
 ```JavaScript
 
